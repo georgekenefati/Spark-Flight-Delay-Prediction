@@ -1,4 +1,4 @@
-# Airport Classification at Scale with Apache Spark ML
+# Flight Delay Prediction at Scale with Apache Spark ML
 ![alt text](results.png)
 
 ## Description
